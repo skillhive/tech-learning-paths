@@ -1,1 +1,1 @@
-# tech-learning-paths
+# Learning paths - Technology
